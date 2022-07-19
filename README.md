@@ -1,4 +1,4 @@
-### Hi there https://github.githubassets.com/images/mona-whisper.gif
+### Hi there ![](https://github.githubassets.com/images/mona-whisper.gif)
 
 
 - 🔭 I’m currently working on Curia Project
