@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3EB80B&width=404&lines=%3C+Hello%2C+I'm+Daniel+%2F%3E)](https://git.io/typing-svg)
 
-<img src="https://github.com/dangrunger/dangrunger/blob/main/assets/tux.gif" width="200"> 
-
-
 
 
 - 🔭 I’m currently working on Curia Project
