@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: JavaScript took just 10 days to develop.
 - 🐧 Linux Enthusiast
-
+- 🖤 
 
 
 ![](https://komarev.com/ghpvc/?username=dangrunger&color=green)
